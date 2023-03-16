@@ -54,14 +54,19 @@
           <li class="navbar-item dropdown">
             <a href="#" class="nav-link dropdown-toggle text-dark" data-toggle="dropdown" id="navDrop">Social</a>
 
+            
+
+
+
+
+         
             <div class="dropdown-menu bg-white ">
-              <a href="#" class="dropdown-item"><img src="icon/facebook.svg" alt=""> Fecebook</a>
-              <a href="#" class="dropdown-item"><img src="icon/twitter.svg" alt=""> Twitter</a>
-              <a href="#" class="dropdown-item"><img src="icon/instagram.svg" alt=""> Instagran</a>
-              <a href="#" class="dropdown-item"><img src="icon/youtube.svg" alt=""> YouTube</a>
+              <form action=""class="form-group">
+               
+                <input type="text" class="input-group" placeholder="email">
+              </form>
             </div>
           </li>
-
         </ul>
 
         <form action="" class="form-inline">
@@ -117,7 +122,7 @@
   </div>
   <!-- fim do Carousel -->
 
-  <!-- Inicio do card -->
+  <!-- Inicio do conteiner/coluna/card -->
   <div class="container">
 
     <div class="row">
@@ -205,7 +210,7 @@
 
       </div>
     </div>
-
+  <!-- incicio do card -->
     <div class="row justify-content-sm-center ">
 
       <div class="col-sm-6 col-md-4">
@@ -301,8 +306,10 @@
         </div>
       </div>
     </div>
+    <!-- fim do card -->
   </div>
-  <!-- fim do Card -->
+  <!-- fim do conteiner/coluna/card -->
+  
 
   <!-- Incicio do Jombontron -->
   <div class="jumbotron jumbotron-fluid">
